@@ -26,10 +26,7 @@ public class ControllerScript : MonoBehaviour
     void Update()
     {
         
-        if(USD.GetComponent<Toggle>().isOn == true && YEN.GetComponent<Toggle>().isOn == true)
-        {
-            DebugTxt.text = "Choose Either JPY or USD";
-        }
+        
     }
     public void Conversion()
     {
