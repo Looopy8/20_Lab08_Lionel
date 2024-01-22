@@ -2048,10 +2048,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   USD: {fileID: 1498220020}
   YEN: {fileID: 2078777096}
-  RM: {fileID: 0}
-  EUR: {fileID: 0}
-  KRW: {fileID: 0}
-  TWD: {fileID: 0}
+  RM: {fileID: 1746184324}
+  EUR: {fileID: 887119612}
+  KRW: {fileID: 73947594}
+  TWD: {fileID: 1322634509}
   TxtAmount: {fileID: 1002183234}
   ValueTxt: {fileID: 1732736166}
   DebugTxt: {fileID: 1554476725}
